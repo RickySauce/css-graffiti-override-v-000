@@ -2,6 +2,6 @@
   display: none;
 }
 
-[id*="tag-2"] {
+[div id*="tag-2"] {
   display: none;
 }
