@@ -25,3 +25,7 @@ div#wall #tag-3.slick {
 .parent div#tag-6 {
   display: none;
 }
+
+.parent div + div#tag-6 {
+  display: none;
+}
