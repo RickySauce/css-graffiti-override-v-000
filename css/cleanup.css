@@ -9,3 +9,6 @@
 #wall .parent #tag-4 {
   display: none;
 }
+.parent {
+  display: none;
+}
