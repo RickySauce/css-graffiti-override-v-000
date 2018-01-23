@@ -22,8 +22,4 @@ div#wall div.parent div + div div#tag-6 {
   display: none;
 }
 
-<div class="parent">
-  <div></div>
-  <div>
-    <div id="tag-6"></div>
-  </div>
+
